@@ -9,6 +9,15 @@ Max of 32 teams.
 
 Label board numbers. Spray paint board numbers in the grass? 
 
+* Tent
+* Tables
+* Water
+* Big board for pool play and times
+* Big Board for bracket
+* zip ties or something to get the banner up
+* flags (they might be the wiffle ball foul poles though)
+
+
 ## Pool Play:
 
 Each team is placed into a pool and each pools has 4 teams.
@@ -34,17 +43,22 @@ Opponents will do a coin flip (maybe we can give out voyager coins?). Winner dec
 
 ## Bracket Play:
 
-There are 8 spots available in the bracket. Ideally this is the winner of each pool.  If there are not enough registrations to fill up all 8 pools, the pools that filled up last will have to play each other in a play-in style game to continue.
+There are up to 8 spots available in bracket play. The winner of each pool gets one spot. If there are not enough registrations to fill up all 8 spots, .e. only 6.5 pools filled up, a seeded bracked will be created to handle this.
 
-Example of 6 bracks filling up with 2 people left in the 7th:
 Build the bracket using this site:
-https://brackethq.com/maker/
+https://brackethq.com/maker/ Winner of A pool is seed 1, winner B pool is seed 2, etc.
+
+### Example:
+ 26 people registered, filling 6 pools up with a 7th pool only having 2 people.
+
+The 2 people in pool 7 would play each other to determine who wins the pool. All other pool play would be normal.
+
+In this case we need to make a 7 team seeded bracket because we only had seven pools.
+
+![picture 1](images/f79b5476c68872f890a03b58b7e34e6412ad4007ef717faf51a593759ea38c2a.png)  
 
 
-In this case we need to make a 7 team seeded bracket.
-The first 4 brackets (A-E)
-What if a bracket is partially filled?
-
+Bracket play games should only ever need 4 boards.  All other boards can be cleaned up at this time.
 
 ## Registration
 
@@ -52,7 +66,7 @@ We will accept registrants until all the pools are filled, bracket play has star
 
 Pools can be filled as people arrive. When someone arrives they get put into the next open pool.  Don't let people pick pools, place them into next available.  (you can always use judgement here)
 
-For pools F,G, and H (the last pools to fill) try to avoid having us end up with 1 extra person and all other pools filled.  If it happens it won't break anything, but having a 3 person pool and a 2 person pool as the final pools is preferrable than a 4 person pool and 1 person pool.
+For pools F,G, and H (the last pools to fill) try to avoid ending up with 1 extra person and all other pools filled.  If it happens it won't break anything, but having a 3 person pool and a 2 person pool as the final pools is preferrable than a 4 person pool and 1 person pool.
 
 ### When a team arrives:
 
@@ -65,9 +79,3 @@ Ask if they have any rules questions.
 Ask if they have heard of the voyagers program.
 Ask them to spread the word, because voyagers is a great program.
 Solicit a donation to nourish 282. (tap the jar)
-
-
-  _ 
- / \
-() ()
-
