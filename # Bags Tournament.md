@@ -72,12 +72,12 @@ For pools F,G, and H (the last pools to fill) try to avoid ending up with 1 extr
 
 ### When a team arrives:
 
-Welcome them and confirm registration and donation.
-Add them to the next open pool (A - H)
-Explain pool play format.
-Explain to them the time and location of their matches.
-Give them a voyagers coin.
-Ask if they have any rules questions.
-Ask if they have heard of the voyagers program.
-Ask them to spread the word, because voyagers is a great program.
-Solicit a donation to nourish 282. (tap the jar)
+* Welcome them and confirm registration and donation.
+* Add them to the next open pool (A - H)
+* Explain pool play format.
+* Explain to them the time and location of their matches.
+* Give them a voyagers coin.
+* Ask if they have any rules questions.
+* Ask if they have heard of the voyagers program.
+* Ask them to spread the word, because voyagers is a great program.
+* Solicit a donation to nourish 282. (tap the jar)
