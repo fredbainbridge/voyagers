@@ -48,6 +48,8 @@ There are up to 8 spots available in bracket play. The winner of each pool gets 
 Build the bracket using this site:
 https://brackethq.com/maker/ Winner of A pool is seed 1, winner B pool is seed 2, etc.
 
+Bracket play games are to 21 points and you must win by 2.
+
 ### Example:
  26 people registered, filling 6 pools up with a 7th pool only having 2 people.
 
