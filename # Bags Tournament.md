@@ -9,26 +9,28 @@ Max of 32 teams.
 
 Label board numbers. Spray paint board numbers in the grass? 
 
+* 8 sets of boards. Each lane is two sets.  
+* Score cards for pool play
 * Tent
 * Tables
 * Water
 * Big board for pool play and times
-* Big Board for bracket
-* zip ties or something to get the banner up
+* Big Board for final bracket
+* zip ties / rope / twins to get the banner up
 * flags (they might be the wiffle ball foul poles though)
-
+* Cash  envelope.
 
 ## Pool Play:
 
-Each team is placed into a pool and each pools has 4 teams.
+Each team is placed into a pool and each pools will have at most 4 teams.
 
-Each team plays every other team in their pool. (3 games)
+Each team will play every other team in their pool. (3 games)
 
-The winner of the pool (record) will move onto bracket play. Tie breakers are settld by head to head record.
+The winner of the pool (record) will advance into bracket play. Tie breakers are settled by head to head record.
 
-Pool play games are 15 point games, first to 15 wins.
+Pool play games are played until one team scores 15 points. Games will follow the  [ABA rules](https://americancornhole.com/downloads/ACO-SeasonXII/ACO-Rules-for-the-Sport-of-Cornhole.pdf) for everything else. 
 
-Opponents will do a coin flip (maybe we can give out voyager coins?). Winner decides who goes first.
+Opponents will do a coin flip.  Winner decides who goes first.
 
 | Boards | Pool | Time |
 |-|-|-|
@@ -81,3 +83,24 @@ For pools F,G, and H (the last pools to fill) try to avoid ending up with 1 extr
 * Ask if they have heard of the voyagers program.
 * Ask them to spread the word, because voyagers is a great program.
 * Solicit a donation to nourish 282. (tap the jar)
+
+
+## Website Copy
+
+$40
+
+*Location:* Central Park between the Varsity softball field and the SAV Community Center
+
+Grab a partner and show off your backyard gaming skills! Teams of all kinds are welcome:
+
+Dads & daughters
+Moms & sons
+Best Friends
+Neighbors
+Teammates
+You dream it up and you’ll be welcome to participate.
+Prizes awarded to winning teams.
+
+Teams are guaranteed 3 games in a pool play format.  Win your pool and advance to the championship bracket! See more details [here](https://nevoyagers.com/sys/website/?pageId=18070)
+
+More information about voyagers can be found at their website. [https://nevoyagers.com/](https://nevoyagers.com/)
